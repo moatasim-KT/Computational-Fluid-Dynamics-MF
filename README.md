@@ -1,7 +1,7 @@
 # <span style="color:rgb(213,80,0)">Computational Fluid Dynamics Course Module</span>
 
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computational-Fluid-Dynamics) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computational-Fluid-Dynamics)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/180642-computational-fluid-dynamics) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computational-Fluid-Dynamics)
 
 **Curriculum Module**
 

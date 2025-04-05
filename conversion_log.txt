@@ -1,0 +1,409 @@
+[Sat Apr  5 21:26:16 UTC 2025] Starting MATLAB to Python conversion process
+[Sat Apr  5 21:26:16 UTC 2025] SMOP is already installed
+[Sat Apr  5 21:26:16 UTC 2025] Creating Python output directory...
+[Sat Apr  5 21:26:16 UTC 2025] Locating MATLAB files...
+[Sat Apr  5 21:26:16 UTC 2025] Found MATLAB files, beginning conversion...
+[Sat Apr  5 21:26:16 UTC 2025] Converting ./InterfaceAdvection/exercise/slic.m to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./InterfaceAdvection/exercise/slic.m. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./InterfaceAdvection/interfaceAdvection_teachingModule.mlx to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./InterfaceAdvection/interfaceAdvection_teachingModule.mlx. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./OverView.mlx to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./OverView.mlx. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./FiniteDifferenceMethods/parabolicEquations.mlx to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./FiniteDifferenceMethods/parabolicEquations.mlx. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./FiniteDifferenceMethods/hyperbolicEquations.mlx to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./FiniteDifferenceMethods/hyperbolicEquations.mlx. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/parabolic_ex1.m to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./FiniteDifferenceMethods/exercise/parabolic_ex1.m. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/solution/solutionParabolic.mlx to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./FiniteDifferenceMethods/exercise/solution/solutionParabolic.mlx. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/solution/solutionHyperbolic.mlx to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./FiniteDifferenceMethods/exercise/solution/solutionHyperbolic.mlx. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/solution/solutionLaplace_ex3.m to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./FiniteDifferenceMethods/exercise/solution/solutionLaplace_ex3.m. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/solution/solutionHyperbolicCode.m to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./FiniteDifferenceMethods/exercise/solution/solutionHyperbolicCode.m. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/solution/solutionLaplace_ex1.m to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./FiniteDifferenceMethods/exercise/solution/solutionLaplace_ex1.m. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/solution/solutionLaplace_ex2.m to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./FiniteDifferenceMethods/exercise/solution/solutionLaplace_ex2.m. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/hyperbolic_ex1.m to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./FiniteDifferenceMethods/exercise/hyperbolic_ex1.m. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/laplace_ex1.m to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./FiniteDifferenceMethods/exercise/laplace_ex1.m. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/laplace_ex3.m to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./FiniteDifferenceMethods/exercise/laplace_ex3.m. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/laplace_ex2.m to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./FiniteDifferenceMethods/exercise/laplace_ex2.m. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./FiniteDifferenceMethods/numericalErrors.mlx to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./FiniteDifferenceMethods/numericalErrors.mlx. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./FiniteDifferenceMethods/convergenceExample.m to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./FiniteDifferenceMethods/convergenceExample.m. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./FiniteDifferenceMethods/ellipticEquations.mlx to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./FiniteDifferenceMethods/ellipticEquations.mlx. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./NavierStokes/project/singlePhaseFlowSolver_project2.m to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./NavierStokes/project/singlePhaseFlowSolver_project2.m. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./NavierStokes/project/solution/singlePhaseFlowSolver_project2.m to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./NavierStokes/project/solution/singlePhaseFlowSolver_project2.m. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./NavierStokes/project/solution/singlePhaseFlowSolver_project1.m to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./NavierStokes/project/solution/singlePhaseFlowSolver_project1.m. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./NavierStokes/project/solution/singlePhaseFlowSolver_project3.m to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./NavierStokes/project/solution/singlePhaseFlowSolver_project3.m. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./NavierStokes/project/singlePhaseFlowSolver_project1.m to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./NavierStokes/project/singlePhaseFlowSolver_project1.m. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./NavierStokes/project/singlePhaseFlowSolver_project3.m to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./NavierStokes/project/singlePhaseFlowSolver_project3.m. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./NavierStokes/exercise/solution/solution_singlePhaseFlowSolver.m to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./NavierStokes/exercise/solution/solution_singlePhaseFlowSolver.m. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./NavierStokes/exercise/singlePhaseFlowSolver.m to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./NavierStokes/exercise/singlePhaseFlowSolver.m. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./NavierStokes/flowSolver_teachingModule.mlx to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./NavierStokes/flowSolver_teachingModule.mlx. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./FluidStructureInteraction/exercise/FSI_example2.m to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./FluidStructureInteraction/exercise/FSI_example2.m. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./FluidStructureInteraction/exercise/FSI_example1.m to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./FluidStructureInteraction/exercise/FSI_example1.m. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Converting ./FluidStructureInteraction/FSI_teachingModule.mlx to Python...
+/home/codespace/.python/current/bin/python: No module named smop.__main__; 'smop' is a package and cannot be directly executed
+[Sat Apr  5 21:26:17 UTC 2025] Failed to convert ./FluidStructureInteraction/FSI_teachingModule.mlx. See conversion_log.txt for details.
+[Sat Apr  5 21:26:17 UTC 2025] Conversion process complete.
+[Sat Apr  5 21:26:17 UTC 2025] Python files are stored in the python_output directory.
+[Sat Apr  5 21:26:17 UTC 2025] Check conversion_log.txt for the detailed log.
+[Sat Apr  5 21:42:06 UTC 2025] Starting MATLAB to Python conversion process
+[Sat Apr  5 21:42:07 UTC 2025] SMOP is already installed
+[Sat Apr  5 21:42:07 UTC 2025] Creating Python output directory...
+[Sat Apr  5 21:42:07 UTC 2025] Locating MATLAB files...
+[Sat Apr  5 21:42:07 UTC 2025] Found MATLAB files, beginning conversion...
+[Sat Apr  5 21:42:07 UTC 2025] Converting ./InterfaceAdvection/exercise/slic.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:42:07 UTC 2025] Created python_output/slic.py
+[Sat Apr  5 21:42:07 UTC 2025] Converting ./InterfaceAdvection/interfaceAdvection_teachingModule.mlx to Python...
+[Sat Apr  5 21:42:07 UTC 2025] Created python_output/interfaceAdvection_teachingModule.py
+[Sat Apr  5 21:42:07 UTC 2025] Converting ./OverView.mlx to Python...
+[Sat Apr  5 21:42:08 UTC 2025] Created python_output/OverView.py
+[Sat Apr  5 21:42:08 UTC 2025] Converting ./FiniteDifferenceMethods/parabolicEquations.mlx to Python...
+[Sat Apr  5 21:42:08 UTC 2025] Created python_output/parabolicEquations.py
+[Sat Apr  5 21:42:08 UTC 2025] Converting ./FiniteDifferenceMethods/hyperbolicEquations.mlx to Python...
+[Sat Apr  5 21:42:08 UTC 2025] Created python_output/hyperbolicEquations.py
+[Sat Apr  5 21:42:08 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/parabolic_ex1.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:42:08 UTC 2025] Created python_output/parabolic_ex1.py
+[Sat Apr  5 21:42:08 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/solution/solutionParabolic.mlx to Python...
+[Sat Apr  5 21:42:09 UTC 2025] Created python_output/solutionParabolic.py
+[Sat Apr  5 21:42:09 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/solution/solutionHyperbolic.mlx to Python...
+[Sat Apr  5 21:42:09 UTC 2025] Created python_output/solutionHyperbolic.py
+[Sat Apr  5 21:42:09 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/solution/solutionLaplace_ex3.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:42:09 UTC 2025] Created python_output/solutionLaplace_ex3.py
+[Sat Apr  5 21:42:09 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/solution/solutionHyperbolicCode.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:42:09 UTC 2025] Created python_output/solutionHyperbolicCode.py
+[Sat Apr  5 21:42:09 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/solution/solutionLaplace_ex1.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:42:10 UTC 2025] Created python_output/solutionLaplace_ex1.py
+[Sat Apr  5 21:42:10 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/solution/solutionLaplace_ex2.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:42:10 UTC 2025] Created python_output/solutionLaplace_ex2.py
+[Sat Apr  5 21:42:10 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/hyperbolic_ex1.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:42:10 UTC 2025] Created python_output/hyperbolic_ex1.py
+[Sat Apr  5 21:42:10 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/laplace_ex1.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:42:10 UTC 2025] Created python_output/laplace_ex1.py
+[Sat Apr  5 21:42:10 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/laplace_ex3.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:42:11 UTC 2025] Created python_output/laplace_ex3.py
+[Sat Apr  5 21:42:11 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/laplace_ex2.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:42:11 UTC 2025] Created python_output/laplace_ex2.py
+[Sat Apr  5 21:42:11 UTC 2025] Converting ./FiniteDifferenceMethods/numericalErrors.mlx to Python...
+[Sat Apr  5 21:42:11 UTC 2025] Created python_output/numericalErrors.py
+[Sat Apr  5 21:42:11 UTC 2025] Converting ./FiniteDifferenceMethods/convergenceExample.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:42:11 UTC 2025] Created python_output/convergenceExample.py
+[Sat Apr  5 21:42:11 UTC 2025] Converting ./FiniteDifferenceMethods/ellipticEquations.mlx to Python...
+[Sat Apr  5 21:42:12 UTC 2025] Created python_output/ellipticEquations.py
+[Sat Apr  5 21:42:12 UTC 2025] Converting ./NavierStokes/project/singlePhaseFlowSolver_project2.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:42:12 UTC 2025] Created python_output/singlePhaseFlowSolver_project2.py
+[Sat Apr  5 21:42:12 UTC 2025] Converting ./NavierStokes/project/solution/singlePhaseFlowSolver_project2.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:42:12 UTC 2025] Created python_output/singlePhaseFlowSolver_project2.py
+[Sat Apr  5 21:42:12 UTC 2025] Converting ./NavierStokes/project/solution/singlePhaseFlowSolver_project1.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:42:13 UTC 2025] Created python_output/singlePhaseFlowSolver_project1.py
+[Sat Apr  5 21:42:13 UTC 2025] Converting ./NavierStokes/project/solution/singlePhaseFlowSolver_project3.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:42:13 UTC 2025] Created python_output/singlePhaseFlowSolver_project3.py
+[Sat Apr  5 21:42:13 UTC 2025] Converting ./NavierStokes/project/singlePhaseFlowSolver_project1.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:42:13 UTC 2025] Created python_output/singlePhaseFlowSolver_project1.py
+[Sat Apr  5 21:42:13 UTC 2025] Converting ./NavierStokes/project/singlePhaseFlowSolver_project3.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:42:14 UTC 2025] Created python_output/singlePhaseFlowSolver_project3.py
+[Sat Apr  5 21:42:14 UTC 2025] Converting ./NavierStokes/exercise/solution/solution_singlePhaseFlowSolver.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:42:14 UTC 2025] Created python_output/solution_singlePhaseFlowSolver.py
+[Sat Apr  5 21:42:14 UTC 2025] Converting ./NavierStokes/exercise/singlePhaseFlowSolver.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:42:14 UTC 2025] Created python_output/singlePhaseFlowSolver.py
+[Sat Apr  5 21:42:14 UTC 2025] Converting ./NavierStokes/flowSolver_teachingModule.mlx to Python...
+[Sat Apr  5 21:42:15 UTC 2025] Created python_output/flowSolver_teachingModule.py
+[Sat Apr  5 21:42:15 UTC 2025] Converting ./FluidStructureInteraction/exercise/FSI_example2.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:42:15 UTC 2025] Created python_output/FSI_example2.py
+[Sat Apr  5 21:42:15 UTC 2025] Converting ./FluidStructureInteraction/exercise/FSI_example1.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:42:15 UTC 2025] Created python_output/FSI_example1.py
+[Sat Apr  5 21:42:15 UTC 2025] Converting ./FluidStructureInteraction/FSI_teachingModule.mlx to Python...
+[Sat Apr  5 21:42:16 UTC 2025] Created python_output/FSI_teachingModule.py
+[Sat Apr  5 21:42:16 UTC 2025] Conversion process complete.
+[Sat Apr  5 21:42:16 UTC 2025] Python files are stored in the python_output directory.
+[Sat Apr  5 21:42:16 UTC 2025] Check conversion_log.txt for the detailed log.
+[Sat Apr  5 21:43:50 UTC 2025] Starting MATLAB to Python conversion process
+[Sat Apr  5 21:43:51 UTC 2025] SMOP is already installed
+[Sat Apr  5 21:43:51 UTC 2025] Creating Python output directory...
+[Sat Apr  5 21:43:51 UTC 2025] Locating MATLAB files...
+[Sat Apr  5 21:43:51 UTC 2025] Found MATLAB files, beginning conversion...
+[Sat Apr  5 21:43:51 UTC 2025] Converting ./InterfaceAdvection/exercise/slic.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:43:51 UTC 2025] Created python_output/slic.py
+[Sat Apr  5 21:43:51 UTC 2025] Converting ./InterfaceAdvection/interfaceAdvection_teachingModule.mlx to Python...
+[Sat Apr  5 21:43:51 UTC 2025] Created python_output/interfaceAdvection_teachingModule.py
+[Sat Apr  5 21:43:51 UTC 2025] Converting ./OverView.mlx to Python...
+[Sat Apr  5 21:43:51 UTC 2025] Created python_output/OverView.py
+[Sat Apr  5 21:43:51 UTC 2025] Converting ./FiniteDifferenceMethods/parabolicEquations.mlx to Python...
+[Sat Apr  5 21:43:52 UTC 2025] Created python_output/parabolicEquations.py
+[Sat Apr  5 21:43:52 UTC 2025] Converting ./FiniteDifferenceMethods/hyperbolicEquations.mlx to Python...
+[Sat Apr  5 21:43:52 UTC 2025] Created python_output/hyperbolicEquations.py
+[Sat Apr  5 21:43:52 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/parabolic_ex1.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:43:52 UTC 2025] Created python_output/parabolic_ex1.py
+[Sat Apr  5 21:43:52 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/solution/solutionParabolic.mlx to Python...
+[Sat Apr  5 21:43:52 UTC 2025] Created python_output/solutionParabolic.py
+[Sat Apr  5 21:43:52 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/solution/solutionHyperbolic.mlx to Python...
+[Sat Apr  5 21:43:53 UTC 2025] Created python_output/solutionHyperbolic.py
+[Sat Apr  5 21:43:53 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/solution/solutionLaplace_ex3.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:43:53 UTC 2025] Created python_output/solutionLaplace_ex3.py
+[Sat Apr  5 21:43:53 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/solution/solutionHyperbolicCode.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:43:53 UTC 2025] Created python_output/solutionHyperbolicCode.py
+[Sat Apr  5 21:43:53 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/solution/solutionLaplace_ex1.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:43:53 UTC 2025] Created python_output/solutionLaplace_ex1.py
+[Sat Apr  5 21:43:53 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/solution/solutionLaplace_ex2.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:43:54 UTC 2025] Created python_output/solutionLaplace_ex2.py
+[Sat Apr  5 21:43:54 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/hyperbolic_ex1.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:43:54 UTC 2025] Created python_output/hyperbolic_ex1.py
+[Sat Apr  5 21:43:54 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/laplace_ex1.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:43:54 UTC 2025] Created python_output/laplace_ex1.py
+[Sat Apr  5 21:43:54 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/laplace_ex3.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:43:54 UTC 2025] Created python_output/laplace_ex3.py
+[Sat Apr  5 21:43:54 UTC 2025] Converting ./FiniteDifferenceMethods/exercise/laplace_ex2.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:43:55 UTC 2025] Created python_output/laplace_ex2.py
+[Sat Apr  5 21:43:55 UTC 2025] Converting ./FiniteDifferenceMethods/numericalErrors.mlx to Python...
+[Sat Apr  5 21:43:55 UTC 2025] Created python_output/numericalErrors.py
+[Sat Apr  5 21:43:55 UTC 2025] Converting ./FiniteDifferenceMethods/convergenceExample.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:43:55 UTC 2025] Created python_output/convergenceExample.py
+[Sat Apr  5 21:43:55 UTC 2025] Converting ./FiniteDifferenceMethods/ellipticEquations.mlx to Python...
+[Sat Apr  5 21:43:55 UTC 2025] Created python_output/ellipticEquations.py
+[Sat Apr  5 21:43:55 UTC 2025] Converting ./NavierStokes/project/singlePhaseFlowSolver_project2.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:43:56 UTC 2025] Created python_output/singlePhaseFlowSolver_project2.py
+[Sat Apr  5 21:43:56 UTC 2025] Converting ./NavierStokes/project/solution/singlePhaseFlowSolver_project2.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:43:56 UTC 2025] Created python_output/singlePhaseFlowSolver_project2.py
+[Sat Apr  5 21:43:56 UTC 2025] Converting ./NavierStokes/project/solution/singlePhaseFlowSolver_project1.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:43:56 UTC 2025] Created python_output/singlePhaseFlowSolver_project1.py
+[Sat Apr  5 21:43:56 UTC 2025] Converting ./NavierStokes/project/solution/singlePhaseFlowSolver_project3.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:43:57 UTC 2025] Created python_output/singlePhaseFlowSolver_project3.py
+[Sat Apr  5 21:43:57 UTC 2025] Converting ./NavierStokes/project/singlePhaseFlowSolver_project1.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:43:57 UTC 2025] Created python_output/singlePhaseFlowSolver_project1.py
+[Sat Apr  5 21:43:57 UTC 2025] Converting ./NavierStokes/project/singlePhaseFlowSolver_project3.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:43:57 UTC 2025] Created python_output/singlePhaseFlowSolver_project3.py
+[Sat Apr  5 21:43:57 UTC 2025] Converting ./NavierStokes/exercise/solution/solution_singlePhaseFlowSolver.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:43:58 UTC 2025] Created python_output/solution_singlePhaseFlowSolver.py
+[Sat Apr  5 21:43:58 UTC 2025] Converting ./NavierStokes/exercise/singlePhaseFlowSolver.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:43:58 UTC 2025] Created python_output/singlePhaseFlowSolver.py
+[Sat Apr  5 21:43:58 UTC 2025] Converting ./NavierStokes/flowSolver_teachingModule.mlx to Python...
+[Sat Apr  5 21:43:58 UTC 2025] Created python_output/flowSolver_teachingModule.py
+[Sat Apr  5 21:43:58 UTC 2025] Converting ./FluidStructureInteraction/exercise/FSI_example2.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:43:59 UTC 2025] Created python_output/FSI_example2.py
+[Sat Apr  5 21:43:59 UTC 2025] Converting ./FluidStructureInteraction/exercise/FSI_example1.m to Python...
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:760: FutureWarning: Possible nested set at position 65
+  c = re.compile('(?P<%s>%s)' % (fname, _get_regex(f)), self.reflags)
+/usr/local/python/3.12.1/lib/python3.12/site-packages/ply/lex.py:498: FutureWarning: Possible nested set at position 118
+  lexre = re.compile(regex, reflags)
+[Sat Apr  5 21:43:59 UTC 2025] Created python_output/FSI_example1.py
+[Sat Apr  5 21:43:59 UTC 2025] Converting ./FluidStructureInteraction/FSI_teachingModule.mlx to Python...
+[Sat Apr  5 21:43:59 UTC 2025] Created python_output/FSI_teachingModule.py
+[Sat Apr  5 21:43:59 UTC 2025] Conversion process complete.
+[Sat Apr  5 21:43:59 UTC 2025] Python files are stored in the python_output directory.
+[Sat Apr  5 21:43:59 UTC 2025] Check conversion_log.txt for the detailed log.

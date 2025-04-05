@@ -1,0 +1,5 @@
+Requirement already satisfied: smop in /usr/local/python/3.12.1/lib/python3.12/site-packages (0.41)
+Requirement already satisfied: ply in /usr/local/python/3.12.1/lib/python3.12/site-packages (from smop) (3.11)
+Requirement already satisfied: numpy in /home/codespace/.local/lib/python3.12/site-packages (from smop) (2.2.4)
+Requirement already satisfied: scipy in /home/codespace/.local/lib/python3.12/site-packages (from smop) (1.15.2)
+Requirement already satisfied: networkx in /home/codespace/.local/lib/python3.12/site-packages (from smop) (3.3)

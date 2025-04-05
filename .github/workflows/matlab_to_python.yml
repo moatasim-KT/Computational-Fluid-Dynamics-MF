@@ -1,0 +1,41 @@
+name: Convert MATLAB to Python
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  convert_and_commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install SMOP
+        run: |
+          pip install smop
+
+      - name: Create new branch
+        run: |
+          git checkout -b python-conversion
+
+      - name: Convert MATLAB files to Python
+        run: |
+          for file in $(find . -name "*.m" -o -name "*.mlx"); do
+            python -m smop $file > ${file%.*}.py
+          done
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m "Convert MATLAB to Python"
+          git push origin python-conversion
